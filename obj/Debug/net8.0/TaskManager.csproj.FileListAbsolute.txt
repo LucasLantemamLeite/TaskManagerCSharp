@@ -1,0 +1,14 @@
+B:\GitHub\TaskManager\bin\Debug\net8.0\TaskManager.exe
+B:\GitHub\TaskManager\bin\Debug\net8.0\TaskManager.deps.json
+B:\GitHub\TaskManager\bin\Debug\net8.0\TaskManager.runtimeconfig.json
+B:\GitHub\TaskManager\bin\Debug\net8.0\TaskManager.dll
+B:\GitHub\TaskManager\bin\Debug\net8.0\TaskManager.pdb
+B:\GitHub\TaskManager\obj\Debug\net8.0\TaskManager.GeneratedMSBuildEditorConfig.editorconfig
+B:\GitHub\TaskManager\obj\Debug\net8.0\TaskManager.AssemblyInfoInputs.cache
+B:\GitHub\TaskManager\obj\Debug\net8.0\TaskManager.AssemblyInfo.cs
+B:\GitHub\TaskManager\obj\Debug\net8.0\TaskManager.csproj.CoreCompileInputs.cache
+B:\GitHub\TaskManager\obj\Debug\net8.0\TaskManager.dll
+B:\GitHub\TaskManager\obj\Debug\net8.0\refint\TaskManager.dll
+B:\GitHub\TaskManager\obj\Debug\net8.0\TaskManager.pdb
+B:\GitHub\TaskManager\obj\Debug\net8.0\TaskManager.genruntimeconfig.cache
+B:\GitHub\TaskManager\obj\Debug\net8.0\ref\TaskManager.dll
